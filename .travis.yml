@@ -1,9 +1,10 @@
 language: java
-dist: trusty
+dist: xenial
 jdk:
   - oraclejdk8
 before_install:
   - chmod +x mvnw
+
 services:
   - mysql
 addons:
