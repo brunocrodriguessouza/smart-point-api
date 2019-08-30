@@ -1,6 +1,6 @@
 package com.brunosouza.smartpoint.api.enums;
 
-public enum ProfileEnum {
+public enum PerfilEnum {
 	ROLE_ADMIN,
-	ROLE_USER;
+	ROLE_USUARIO;
 }
